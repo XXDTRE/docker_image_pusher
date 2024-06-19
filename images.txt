@@ -1,1 +1,2 @@
 wordpress:beta-php8.1-fpm
+mysql:8.4.0
