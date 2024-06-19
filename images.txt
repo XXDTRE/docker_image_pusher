@@ -1,1 +1,1 @@
-  wordpress:beta-php8.1-fpm
+wordpress:beta-php8.1-fpm
