@@ -1,1 +1,1 @@
-alpine:3.20.0 wordpress:php8.2-apache
+alpine:3.20.0
