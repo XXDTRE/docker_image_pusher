@@ -1,1 +1,3 @@
-openspug/spug-service:latest
+mysql:8.0.29-oracle 
+mysql:8.0.29-oracle
+alpine:3.20.0
