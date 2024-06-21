@@ -1,1 +1,1 @@
-assaflavie/runlike:1.4.9
+redis:alpine3.20
