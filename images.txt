@@ -1,1 +1,1 @@
-nginx:stable-alpine3.19
+wordpress:beta-php8.3-fpm
