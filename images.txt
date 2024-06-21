@@ -1,1 +1,1 @@
-redis:alpine3.20
+nginx:1.27.0 
