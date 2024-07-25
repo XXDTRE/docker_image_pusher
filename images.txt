@@ -1,1 +1,1 @@
-tomcat:latest
+busybox:1.32.0 
